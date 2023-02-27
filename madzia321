@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Przykładowa strona internetowa</title>
+  </head>
+  <body>
+    <h2>To jest nagłówek drugiego poziomu</h2>
+    <p>To jest akapit tekstu, który może zawierać <strong>ważne słowa</strong> lub <small>mniejsze czcionki</small>.</p>
+    <p>Można również użyć <sup>górnego indeksu</sup> lub <sub>dolnego indeksu</sub>.</p>
+    <p>Czasami warto zdefiniować <dfn>termin</dfn> lub wyjaśnić znaczenie skrótu, np. <abbr title="World Wide Web Consortium">W3C</abbr>.</p>
+    <p>W tekście można stosować również <em>kursywę</em> lub <strong>pogrubienie</strong>, aby podkreślić ważne słowa.</p>
+  </body>
+</html>
